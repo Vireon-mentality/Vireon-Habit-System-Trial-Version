@@ -1,0 +1,8 @@
+{
+  "name": "Vireon Habit System Free Version",
+  "description": "Imported from GitHub: Vireon-mentality/Habit-tracker",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
